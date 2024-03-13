@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.todotask:hover {
+    display: block
+}
+
+
